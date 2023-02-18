@@ -32,3 +32,10 @@ body
 {
     font-size: 20px;
 }
+#footer
+{
+    color: white;
+    background-color: gray;
+    font-size: 14px;
+    text-align: center;
+}
